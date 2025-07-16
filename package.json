@@ -1,0 +1,22 @@
+{
+  "name": "alphy-theory",
+  "version": "1.0.0",
+  "description": "Alphy – מורה תאוריה אינטראקטיבי",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@react-three/drei": "^9.56.4",
+    "@react-three/fiber": "^8.13.2",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.0",
+    "tailwindcss": "^3.0.0",
+    "vite": "^5.0.0"
+  }
+}
